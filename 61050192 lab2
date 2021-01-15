@@ -1,0 +1,20 @@
+//61050192
+3.1 อธิบายคำสั่ง
+3.2 แสดงpath ปัจจุบัน
+3.3 แสดงชื่อไฟล์ในpathปัจจุบัน
+3.4 สร้าง file directory
+3.5 mkdir sub1
+3.6 copyไฟล์
+3.7 cp HelloWorld.c ./sub1/test.txt
+3.8 เข้าถึงไฟล์
+3.9 cd sub1/
+3.10 /home/sthang/sub1
+3.13 permission denied
+3.17 ไม่ได้ใส่ตำแหน่งที่จะวางไฟล์ที่copy
+3.18 /
+3.22 permission denied
+3.26 cp sub1/test.txt /home/sthang/sub1/sub2/
+3.28 /home/sthang
+3.29 rm -r sub1/
+3.30 sudo rm /atroot
+
